@@ -1,5 +1,5 @@
 {
-  "name": "node-simple-stamp",
+  "name": "simple-stamp",
   "version": "0.0.1",
   "description": "Simple hex random value generator",
   "main": "index.js",
