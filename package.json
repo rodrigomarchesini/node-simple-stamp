@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodrigomarchesini/node-simple-stamp/issues"
   },
-  "homepage": "https://github.com/rodrigomarchesini/node-simple-stamp#readme"
+  "homepage": "https://github.com/rodrigomarchesini/node-simple-stamp#readme",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
 }
