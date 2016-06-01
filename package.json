@@ -1,0 +1,19 @@
+{
+  "name": "node-simple-stamp",
+  "version": "0.0.1",
+  "description": "Simple hex random value generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomarchesini/node-simple-stamp.git"
+  },
+  "author": "Rodrigo Marchesini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigomarchesini/node-simple-stamp/issues"
+  },
+  "homepage": "https://github.com/rodrigomarchesini/node-simple-stamp#readme"
+}
