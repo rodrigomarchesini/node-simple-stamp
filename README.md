@@ -10,8 +10,15 @@ npm install simple-stamp
 
 ## Usage
 
+Source code:
+
 ```js
 var stamp = require('simple-stamp');
 console.log(stamp());
 ```
 
+Output:
+
+```sh
+18beb274
+```
